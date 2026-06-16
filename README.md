@@ -21,11 +21,10 @@ script.js
 
 
 ## 🌐 Live Demo
-https://web-calculator-appz.netlify.app/
+
 
 ## 📸 Preview
 
-<img width="1920" height="1020" alt="Screenshot 2026-06-16 213008" src="https://github.com/user-attachments/assets/79d1a981-76d1-4339-a270-89274a9acd89" />
 
 ## 💡 What I Learned
 - DOM manipulation
