@@ -21,9 +21,10 @@ script.js
 
 
 ## 🌐 Live Demo
-
+https://task-trackerz.netlify.app/
 
 ## 📸 Preview
+<img width="1920" height="1020" alt="Screenshot 2026-06-16 213530" src="https://github.com/user-attachments/assets/57255870-446e-4a86-87b2-ad70ee796d3d" />
 
 
 ## 💡 What I Learned
