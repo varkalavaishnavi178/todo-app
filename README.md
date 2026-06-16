@@ -15,16 +15,17 @@ A simple and interactive To-Do List application built using HTML, CSS, and JavaS
 - JavaScript (DOM Manipulation, LocalStorage)
 
 ## 📂 Project Structure
-index.html
-styles.css
+index.html ,
+styles.css ,
 script.js
 
 
 ## 🌐 Live Demo
-(Add your Netlify link here)
+https://web-calculator-appz.netlify.app/
 
 ## 📸 Preview
-(Optional: Add screenshot here)
+
+<img width="1920" height="1020" alt="Screenshot 2026-06-16 213008" src="https://github.com/user-attachments/assets/79d1a981-76d1-4339-a270-89274a9acd89" />
 
 ## 💡 What I Learned
 - DOM manipulation
